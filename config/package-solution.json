@@ -1,0 +1,46 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pnpjs-reqdigest-client-side-solution",
+    "id": "8869a254-31fa-46f2-b1a4-5fb745dca3f6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "pnpjs-reqdigest description"
+      },
+      "longDescription": {
+        "default": "pnpjs-reqdigest description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "pnpjs-reqdigest Feature",
+        "description": "The feature that activates elements of the pnpjs-reqdigest solution.",
+        "id": "7450c5ce-a90d-487c-a3ee-a1197bea1019",
+        "version": "1.0.0.0",
+        "assets": {
+          "elementManifests": [
+            "elements.xml",
+            "ClientSideInstance.xml"
+          ]
+        }
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/pnpjs-reqdigest.sppkg"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": false,
+    "version": "1.15.2",
+    "libraryName": "pnpjs-reqdigest",
+    "libraryId": "8869a254-31fa-46f2-b1a4-5fb745dca3f6",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "pnpjs-reqdigest",
+    "solutionShortDescription": "pnpjs-reqdigest description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet"
+  }
+}
